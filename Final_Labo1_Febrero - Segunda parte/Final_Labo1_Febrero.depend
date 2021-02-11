@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1612905174 source:e:\final labo 1 - febrero\final_labo1_febrero\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1612904694 e:\final labo 1 - febrero\final_labo1_febrero\linkedlist.h
+
+1613082761 source:e:\final labo 1 - febrero\final_labo1_febrero\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Envio.h"
+	"Controller.h"
+
+1613082678 source:e:\final labo 1 - febrero\final_labo1_febrero\envio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Envio.h"
+
+1613082692 e:\final labo 1 - febrero\final_labo1_febrero\controller.h
+
+1612900335 e:\final labo 1 - febrero\final_labo1_febrero\envio.h
+
+1613081196 source:e:\final labo 1 - febrero\final_labo1_febrero\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Envio.h"
+	"Entrega.h"
+
+1613082896 source:e:\final labo 1 - febrero\final_labo1_febrero\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Envio.h"
+	"Entrega.h"
+
+1613080995 e:\final labo 1 - febrero\final_labo1_febrero\parser.h
+	"LinkedList.h"
+
+1613081024 source:e:\final labo 1 - febrero\final_labo1_febrero\entrega.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Entrega.h"
+
+1613081173 e:\final labo 1 - febrero\final_labo1_febrero\entrega.h
+

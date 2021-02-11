@@ -1,0 +1,3 @@
+1,normal
+2,express
+3,segun_disponibilidad
